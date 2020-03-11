@@ -14,3 +14,5 @@ https://drive.google.com/open?id=1ocFLLIVvZ95tT-6oAn7kHP-HoxV_kRvV
 5. Test/Run using user_interface.py.
 6. Attendance sheet will be generated automatically with current date/time.
 
+# Download pre-trained model:
+https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-
