@@ -9,11 +9,13 @@ https://ieeexplore.ieee.org/document/9029001
 
 # How to use
 1. Take 5-10 seconds video of each person/class.
-2. Create  face dataset using face_detect.py or user_internface.
+2. Create  face dataset using face_detect.py or user_interface.
 3. Augment data using blurr.py.
 4. Run user_interface.py, and train the model.
 5. Test/Run using user_interface.py.
 6. Attendance sheet will be generated automatically with current date/time.
+
+
 
 # Download pre-trained model:
 https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-
