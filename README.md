@@ -7,6 +7,18 @@ The implementation is based on the following paper:
 
 https://ieeexplore.ieee.org/document/9029001
 
+# Make sure to have following directory structure
+1. 'Main' directory:
+<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image5.png" width="480">
+2. 'output' directory:
+<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image4.png" width="480">
+3. '20180402-114759' directory:
+<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image3.png" width="480">
+4. Each person's directory will look somewhat like
+<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image1.png" width="480">
+
+
+
 # How to use
 1. Take 5-10 seconds video of each person/class.
 2. Create  face dataset using face_detect.py or user_interface.
