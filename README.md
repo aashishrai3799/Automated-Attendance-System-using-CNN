@@ -49,6 +49,7 @@ An end-to-end face identification and attendance approach using Convolutional Ne
 4. Click on 'Mark Attendance' button.
 5. Attendance sheet will be generated automatically with current date/time.
 
+The file for data augmentation will be uploaded soon.
 
 To know more about the working of the software, refer to our paper.
 ## Research Paper
