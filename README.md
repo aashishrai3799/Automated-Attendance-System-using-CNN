@@ -18,9 +18,10 @@ An end-to-end face identification and attendance approach using Convolutional Ne
 2. Numpy
 3. OpenCV
 4. MTCNN
-5. xlsxwriter, xlrd
-6. scipy
-7. pickle
+5. Sklearn
+6. xlsxwriter, xlrd
+7. scipy
+8. pickle
 
 
 # How to use
