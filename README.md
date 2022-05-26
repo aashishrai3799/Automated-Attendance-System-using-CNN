@@ -1,17 +1,11 @@
-# Automated-Attendance-System-using-CNN
+# This is the official implementation of
+
+## An End-to-End Real-Time Face Identification and Attendance System using Convolutional Neural Networks 
+(https://ieeexplore.ieee.org/document/9029001)
+
+
 
 An end-to-end face identification and attendance approach using Convolutional Neural Networks (CNN), which processes the CCTV footage or a video of the class and mark the attendance of the entire class simultaneously. One of the main advantages of the proposed solution is its robustness against usual challenges like occlusion (partially visible/covered faces), orientation, alignment and luminescence of the classroom.
-
-
-# Make sure to have following directory structure
-1. 'Main' directory:
-<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image5.png" width="480">
-2. 'output' directory:
-<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image4.png" width="480">
-3. '20180402-114759' directory:
-<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image3.png" width="480">
-4. Each person's directory will look somewhat like
-<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image1.png" width="480">
 
 # Libraries
 1. Tensorflow 1.14
@@ -50,12 +44,20 @@ An end-to-end face identification and attendance approach using Convolutional Ne
 4. Click on 'Mark Attendance' button.
 5. Attendance sheet will be generated automatically with current date/time.
 
+## Make sure to have following directory structure
+1. 'Main' directory:
+<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image5.png" width="480">
+2. 'output' directory:
+<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image4.png" width="480">
+3. '20180402-114759' directory:
+<img src="https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/images/image3.png" width="480">
+
+
+
 The file for data augmentation will be uploaded soon.
 
 To know more about the working of the software, refer to our paper.
-## Research Paper
-The implementation is based on the following paper:
-https://ieeexplore.ieee.org/document/9029001
+
 
 
 # Download pre-trained model:
