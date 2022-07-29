@@ -21,7 +21,7 @@ An end-to-end face identification and attendance approach using Convolutional Ne
 # How to use
 ## Installation
 1. Install the required libraries. (Conda environment preferred).
-2. Download the pre-trained model from the link given below and copy to the main directory.
+2. Download the pre-trained model from [[link]](https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-) and copy to the main directory.
 3. Make sure to have the afformantioned directory fomat (you've to manually create two folders named "attendance" and "output" in the main directory | refer to the "Main" directory structure).
 4. To verify is everything installed properly run 'user_interface.py'.
 ## Create Dataset
