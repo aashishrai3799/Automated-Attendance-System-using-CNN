@@ -75,3 +75,8 @@ title={An End-to-End Real-Time Face Identification and Attendance System using C
 year={2019},  volume={},  number={},  pages={1-4},  
 doi={10.1109/INDICON47234.2019.9029001}}
 ```
+
+## License
+
+The code is available under MIT License. Please read the license terms available at [[Link]](https://github.com/aashishrai3799/Automated-Attendance-System-using-CNN/blob/master/LICENSE)
+
