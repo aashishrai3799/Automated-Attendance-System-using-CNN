@@ -19,11 +19,13 @@ An end-to-end face identification and attendance approach using Convolutional Ne
 
 
 # How to use
+
 ## Installation
 1. Install the required libraries. (Conda environment preferred).
 2. Download the pre-trained model from [[link]](https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-) and copy to the main directory.
-3. Make sure to have the afformantioned directory fomat (you've to manually create two folders named "attendance" and "output" in the main directory | refer to the "Main" directory structure).
-4. To verify is everything installed properly run 'user_interface.py'.
+3. Make sure to have the below mentioned directory structure (you've to manually create two folders named "attendance" and "output" in the main directory | refer to the "Main" directory structure).
+4. To verify if everything is installed correctly, run 'user_interface.py'.
+
 ## Create Dataset
 1. Run 'user_interface.py'
 2. Click on the 'Create' button.
@@ -32,11 +34,13 @@ An end-to-end face identification and attendance approach using Convolutional Ne
 5. Press 's' to save the face images. Take as many images as you can take. (approx. 80-100 preferred)
 6. Press 'q' to exit.
 7. Likewise create other datasets.
+
 ## Training
 1. Run 'user_interface.py'
 2. Click on the 'Train' button.
 3. Training may take several minutes (depending upon your system configuration).
 4. Once training is completed, a 'classifier.pkl' file will be generated.
+
 ## Run
 1. Run 'user_interface.py'
 2. Click on the 'Run' button.
@@ -60,11 +64,11 @@ To know more about the working of the software, refer to our paper.
 
 
 
-# Download pre-trained model:
+## Download pre-trained model:
 https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-
 
 
-# Cite
+## Cite
 If you find this paper/code userful, consider citing
 
 ```
