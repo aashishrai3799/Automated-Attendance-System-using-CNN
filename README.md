@@ -62,3 +62,16 @@ To know more about the working of the software, refer to our paper.
 
 # Download pre-trained model:
 https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-
+
+
+# Cite
+If you find this paper/code userful, consider citing
+
+```
+@INPROCEEDINGS{9029001,  
+author={Rai, Aashish and Karnani, Rashmi and Chudasama, Vishal and Upla, Kishor},  
+booktitle={2019 IEEE 16th India Council International Conference (INDICON)},   
+title={An End-to-End Real-Time Face Identification and Attendance System using Convolutional Neural Networks},   
+year={2019},  volume={},  number={},  pages={1-4},  
+doi={10.1109/INDICON47234.2019.9029001}}
+```
